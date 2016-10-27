@@ -22,4 +22,4 @@
 
 ##参考链接
 
-[stackoverflow](http://stackoverflow.com/questions/12322434/how-to-install-mit-scheme-on-mac)
+[stackoverflow How to install MIT scheme on Mac] (http://stackoverflow.com/questions/12322434/how-to-install-mit-scheme-on-mac)
